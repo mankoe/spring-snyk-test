@@ -1,1 +1,1 @@
-Spring Test Project for Snyk
+[![Known Vulnerabilities](https://snyk.io/test/github/mankoe/spring-snyk-test/badge.svg)](https://snyk.io/test/github/mankoe/spring-snyk-test)
